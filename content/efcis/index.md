@@ -9,7 +9,7 @@ title = "EFCIS"
 
 <i class="fa fa-download"></i>&nbsp;<a href="../files/Informatieblad-EFCIS.pdf">Informatieblad</a>
 
-EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens. 
+EFCIS is een gebruiksvriendelijke webapplicatie, die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens. 
 
 Hierdoor worden de databeheerders ontzorgd én worden de (beleids-)adviseurs ecologie en waterkwaliteit gefaciliteerd om meer met de monitoringsgegevens te kunnen gaan doen.
 
